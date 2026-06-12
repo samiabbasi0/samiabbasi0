@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-🎓 2nd-year Data Science student  
+🎓 3rd-year Data Science student  
 📊 Passionate about **Data Analytics**, **Business Intelligence**, and **Tech-Driven Solutions**  
 🚀 Building impactful dashboards and predictive models  
 🌍 Based in Pakistan | Exploring global opportunities  
@@ -17,8 +17,8 @@
 
 - 💻 **Languages:** Python, SQL, DAX  
 - 📊 **BI Tools:** Power BI, Excel  
-- 🗄️ **Databases:** MySQL, SQL Server  
-- 📚 **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
+- 🗄️ **Databases:** MySQL, SQL Server, Supabase
+- 📚 **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, Tensorflow, PyTorch
 
 ---
 
